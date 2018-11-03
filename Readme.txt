@@ -17,6 +17,7 @@ Descriptif des fichiers requis:
 
 data_logger.py: Programme principal du data logger.
 UImainwindow.py: Interface graphique du data logger.
+UIImpedance.py: Interface graphique pour la configuration de l'analyse d'impédance par la Red Pitaya.
 vna_2_2_1.py: Programme d'analyse vectoriel d'impédance de Pavel.
 vna.ui: Interface graphique du programme précédant.
 vna.ini: Fichier de configuration du programme de Pavel.
